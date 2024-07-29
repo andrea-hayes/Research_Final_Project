@@ -1,0 +1,505 @@
+City,Distance
+"New Orleans, LA",0
+"Vanzand, TX",446
+"Smith, TX",418
+"Jefferson, LA",7
+"Pointe Coupee, LA",113
+"Richmond, VA",1002
+"Cass, TX",398
+"St. Bernard, LA",#ERROR!
+"East Feliciana, LA",111
+"Herckman, KY",520
+"St. Louis, MS",677
+"Rusk, TX",392
+"Baltimore, MD",1123
+"Assumption, LA",79
+"Fayette, KY",749
+"Claiborne, LA",288
+"Unknown, AR",#ERROR!
+"Nashville, TN",533
+"St. Landry, LA",168
+"Abbeville, SC",614
+"Montgomery, AL",311
+"Henry, KY",746
+"Unknown, MO",671
+"Grand Gulf, MS",188
+"St. Tammany, LA",55
+"Polk, TX",333
+"Pensacola, FL",203
+"Lagrange, GA",406
+"New Madrid, MO",515
+"Biloxi, MS",92
+"Fairfield, SC",707
+"Tuscaloosa, AL",293
+"Jackson, MS",187
+"Walton, GA",512
+"Macon, AL",397
+"Rapides, LA",202
+"St. Martin, LA",132
+"Laraeca, TX",663
+"Augusta, GA",611
+"Caldwell, LA",247
+"Terrebonne, LA",#ERROR!
+"Mobile, AL",145
+"Iberville, LA",107
+"St. Helena, LA",85
+"Madison, LA",236
+"Madison, TX",404
+"Hamden, TX",726
+"Unknown, MS",#ERROR!
+"Green, AL",#ERROR!
+"East Baton Rouge, LA",94
+"Urbana, OH",897
+"Concordia, LA",203
+"Memphis, TN",396
+"Americus, GA",451
+"Plaquemines, LA",66
+"Ascension, LA",60
+"Ouachita, LA",292
+"Barren, KY",632
+"Bossier, LA",349
+"Natchitoches, LA",259
+"Chester, SC",697
+"Harrison, TX",357
+"Lafourche, LA",48
+"Clarksville, TX",465
+"Green, KY",805
+"Hamilton, TN",512
+"Ringold, GA",506
+"Charleston, SC",772
+"Halifax, VA",882
+"Jefferson, KY",710
+"Unknown, France",#ERROR!
+"St. James, LA",56
+"Victoria, TX",474
+"Bexar, TX",548
+"St. John, LA",31
+"St. Charles, LA",26
+"Port Gibson, MS",180
+"Madison, FL",439
+"Jacksonport, AR",488
+"Tensas, LA",218
+"Unknown, TX",#ERROR!
+"Algiers, LA",5
+"Saquina, MS",200
+"Wikiman, KY",751
+"Orange, NC",843
+"Granville, NC",878
+"Stotsprings County, AR",471
+"St. Louis, MO",677
+"Milton, FL",215
+"Sumner, TN",569
+"Camden, AR",382
+"DeSoto, LA",298
+"Lewisbury, KY",599
+"Aberdeen, MS",314
+"Carroll, LA",106
+"Galveston, TX",369
+"Summerfield, AL",306
+"Natchez, MS",172
+"Coahoma, MS",351
+"Columbia, SC",680
+"Monroe, MS",144
+"Matagorda, TX",441
+"Yazoo, MS",229
+"Christian, KY",600
+"Columbia, FL",492
+"London, England",#ERROR!
+"Harrison, MS",81
+"New Orleans, St.Bernard, LA",0
+"Harrodsburg, KY",738
+"Jackson, AR",481
+"Dallas, AL",317
+"White River, AR",467
+"Taladego, AL",397
+"Baton Rouge, LA",82
+"Jacksonville, AL",418
+"West Baton Rouge, LA",91
+"St. Mary, LA",#ERROR!
+"Maryland, VA",1120
+"Choctaw, AL",220
+"Vicksburg, MS",208
+"Newstead, NY",1259
+"San Antonio, TX",543
+"Dijon, France",#ERROR!
+"Panola, MS",344
+"Calhoun, TX",506
+"Cherokee, TX",598
+"Travers, TX",726
+"Pack, TX",726
+"Claiborne, MS",184
+"Pike, MS",110
+"Fort Bend, TX",383
+"Livingston, LA",73
+"Shelby, TX",435
+"Unknown, NM",1056
+"Granville, SC",615
+"Indianola, TX",490
+"Adams, MS",163
+"Loundes, AL",310
+"Concrete, TX",490
+"Calcasieu, LA",214
+"Baldwin, AL",168
+"Woodville, MS",136
+"New York, NY",1305
+"Catahoula, LA",131
+"Lavaca, TX",463
+"Pass Christian, MS",66
+"Caddo, LA",356
+"Stark, GA",482
+"Bourbon, KY",767
+"Independence, MO",854
+"Harrison, IN",787
+"Welmington, NC",884
+"Brownsville, TX",701
+"Washington, LA",144
+"Clay, GA",382
+"Louisville, KY",708
+"Unknown, OH",#ERROR!
+"Wilmington, NC",884
+"Washington, TX",424
+"Tallahassee, FL",387
+"Richmond, GA",620
+"Paris, France",#ERROR!
+"Corpus Christi, TX",555
+"Lawrence, MS",201
+"Pope, IL",700
+"New Orleans, AL",0
+"Saline, TX",639
+"Davie, NC",769
+"Mocksville, NC",768
+"Vanderburgh, IN",694
+"Eufaula, AL",369
+"Panola, TX",345
+"Hamburg, SC",614
+"Talbot, GA",432
+"Atlanta, GA",470
+"Shelby, KY",729
+"Jackson, FL",548
+"Anderson, TX",417
+"Port Hudson, LA",100
+"Holmes, MS",1082
+"Spalding, GA",459
+"Newton, GA",400
+"Marshall, MS",377
+"Lafayette, LA",135
+"New Orleans, Jefferson, New Orleans, New Orleans, LA",7
+"Wilcox, AL",263
+"Unknown, SC",670
+"Shreveport, LA",328
+"Hopkinsville, KY",605
+"Fulton, GA",477
+"Columbus, KY",537
+"Washington, MS",176
+"Hamburg, Bourbon, SC, KY",670
+"Barbour, AL",354
+"Danville, KY",725
+"St. Augustine, TX",325
+"Yalobusha, MS",330
+"Little Rock, AR",427
+"Ashley, AR",320
+"Waterlov, LA",#ERROR!
+"Harris, TX",344
+"Gavelston, TX",369
+"Burleson, TX",546
+"Fort Gaines, GA",378
+"Hays, TX",523
+"Joilet, IL",905
+"Moorehouse, LA",287
+"Thomastown, MS",243
+"Guadaloupe, TX",503
+"Jefferson, TX",373
+"Belleair, FL",685
+"Tallahasse, FL",387
+"Sabine, LA",271
+"Nacogdaches, TX",361
+"Warrington, FL",202
+"Chatham, GA",679
+"Goliar, TX",726
+"Stephenson, IL",998
+"London, VA",898
+"Greenville, SC",615
+"Edgefield, SC",631
+"Feliciana, LA",#ERROR!
+"Savannah, GA",684
+"Clarksville, TN",581
+"Jefferson, AR",400
+"Cedar Key, FL",538
+"Smith, TN",583
+"Clarke, GA",542
+"New Orleans, Liverpool, LA, UK",0
+"Monroe, AL",231
+"Cooper, MO",818
+"Vermillion, LA",176
+"Nueces, TX",565
+"Lawrence, SC",638
+"Troup, GA",409
+"Clay, MO",859
+"Unknown, NY",1305
+"Georgetown, KY",752
+"Rankin, MS",204
+"Shelby, TN",398
+"Sportenburg, NC",644
+"New Orleans, St. Bernard, St. Bernard, LA",17
+"Pochahontas, AR",502
+"West Feliciana, LA",116
+"Franklin, KY",577
+"Hancock, MS",62
+"Lafeyette, LA",135
+"Wayne, AL",245
+"Bordentown, NJ",1252
+"Lexington, TX",470
+"Cameron, TX",483
+"Magadini, Switzerland",#ERROR!
+"Savanah, GA",684
+"Henry, AL",362
+"Hickman, KY",520
+"Jefferson, MS",170
+"Newman, GA",435
+"Harwin, TX",360
+"Jefferson, VA",1077
+"Carroll, MS",282
+"Orleans, Jefferson, LA",8
+"Wharton, TX",406
+", MS",#ERROR!
+"Bibb, GA",489
+"New Gascogne, AR",390
+"Austin, TX",512
+"Madisonville, LA",39
+"Chicot, AR",289
+"Henry, TN",492
+"Nantes, France",#ERROR!
+"St. Charles, MO",690
+"Clarke, MS",188
+"Canton, MS",212
+"Tangipahoa, LA",85
+"Avoyelles, LA",161
+"Donaldsonville, LA",66
+"Hopkins, KY",642
+"Unknown, TN",504
+"Pascagoula, MS",112
+"Wuakin, NC",855
+"Clarendon, SC",736
+"Sumpter, SC",733
+"Bedford, TN",501
+"Union, KY",791
+"St.Louis, MO",677
+"Fluvanna, VA",987
+"Pascagoula, AL",112
+"Gibson, TN",489
+"Edenton, NC",1015
+"Apalachichola, FL",389
+"Sequine, TX",509
+"Berwick Bay, LA",87
+"Woodville, AL",437
+"Marshall, TX",359
+"Versailles, France",#ERROR!
+"Arkansas, TX",726
+"Grayson, TX",542
+"Pintlala, AL",299
+"Patrick, VA",843
+"Franklin, MS",242
+"Franklin, AL",344
+"Bayford, SC",670
+"Boone, VA",1031
+"Tallahassee, MS",200
+"Jackson, LA",115
+"Augusta, VA",943
+"Washington D.C., Unknown",1086
+"Macon, GA",495
+"Feltville, NJ",1283
+"Monroe, MO",795
+"Monroe, LA",283
+"Dallas, TX",506
+"Clarke, AL",223
+"Owen, KY",769
+"Fauquier, VA",1049
+"Bay of St. Louis, MS",62
+"Platte, MO",873
+"Hempstead, AR",437
+"Unknown, IL",841
+"Gaines, AR",471
+"Wilkinson, GA",526
+"San Patricio, TX",561
+"Demopolis, AL",255
+"Philadelphia, PA",1225
+"Port Hernando, FL",563
+"Madison, TN",543
+"Pascagoula, FL",700
+"Columbus, GA",392
+"Unknown, AL",308
+"New Orleans, Paris, LA, FRANCE",#ERROR!
+"Baltimore, LA",1898
+"Bolivar, MS",312
+"Williamson, TN",517
+"Madison, MS",201
+"Montgomery, MO",745
+"Boone, MO",793
+"Davidson, TN",535
+"Lexington, MS",249
+"Ratherford, TN",500
+"Thibodeaux, LA",61
+"Issequana, MS",258
+"Jackson, MO",572
+"Boyle, KY",728
+"Kanawha Courthouse, VA",1044
+"Sand, TX",845
+"Obion, TN",496
+"Hoxuby, MS",#ERROR!
+"Boone, KY",799
+"Howard, MS",257
+"Tchula, MS",256
+"Munroe County, MS",318
+"Hancock, IL",835
+"Pau, France",#ERROR!
+"Fleurance, France",#ERROR!
+"Mount Sterling, KY",782
+"Lexington, MO",880
+"Mississippi, MO",544
+"Todd, KY",598
+"Terry, MS",171
+"Unknown, KY",751
+"Unknown, NC",855
+"Glascow, KY",628
+"McCracken County, KY",568
+"Howard, MO",820
+"Monticello, AR",342
+"Butler County, AL",260
+"Refugio, TX",513
+"Taylor, GA",448
+"Audrain, MO",786
+"Montgomery, TN",591
+"Ocean Springs, MS",94
+"Franklin, LA",107
+"Marseille, France",#ERROR!
+"Lamar County, TX",483
+"Columbia, AR",352
+"Harrison, AL",308
+"Worchester, MA",1488
+"Pine Bluff, AR",381
+"Chesterfield, VA",997
+"Person, NC",863
+"Unknown, VA",#ERROR!
+"Winnin, LA",#ERROR!
+"New Castle, KY",744
+"Macon, KY",647
+"San Francisco, CA",2235
+"Noxubee, MS",264
+"Gainesville, MS",57
+"Paris, TN",502
+"Lexington, KY",746
+"Kwines, TX",726
+"Hinds, MS",184
+"Andrew, MO",1104
+"Paris, KY",764
+"Winn, LA",251
+"Paducah, KY",571
+"Unknown, RI",1480
+"East Pascagoula, MS",113
+"Brooksville, FL",624
+"Richmond, LA",228
+"Oxford, MS",347
+"Arkansas, AR",471
+"McCracken County, LA",568
+"Key West, FL",1022
+"Washington, AR",435
+"Clay County, MO",868
+"Drew County, AR",345
+"Platte, MS",200
+"Medina County, TX",578
+"Gainsville, MS",57
+"Weekly, TN",526
+"Unknown, MD",#ERROR!
+"Danville, NC",855
+"Ashley County, AR",320
+"Randolph, MO",856
+"Grenada, MS",300
+"Wilkinson, MS",146
+"Tyler, TX",416
+"Sabine, MO",671
+"Denton, TX",543
+"Summitt, MS",114
+"Frederick, MD",1073
+"St. James, New Orleans, LA",2
+"Henderson, KY",677
+"New Orleans, Jefferson, LA",7
+"Clay, MS",370
+"Hampton, Elizabeth City, VA",1047
+"Jefferson, FL",413
+"Charles, MD",1095
+"Galvez, TX",370
+"Pike, MO",559
+"Jackson, TN",446
+"Boston, MA",1525
+"Orange, TX",240
+"Lauderdale, AL",413
+"Fayetteville, TN",482
+"Madison, AL",434
+"Marion, TX",520
+"Warrenton, VA",1049
+"Merryweather, GA",522
+"Monroe, TN",614
+"Newport Wakulla, FL",404
+"Buchanan, MO",894
+"Rome, GA",463
+"Vaufrild, SC",670
+"Kames, TX",387
+"Georgetown, SC",814
+"Dallas, AR",506
+"Des Arc, AR",441
+"Unknown, Mexico",1089
+"Marion, GA",424
+"Mobile, LA",145
+"Warren, MS",210
+"Brooklyn, NY",1315
+"Tichiminigo, MS",388
+"Travis, TX",505
+"Mocksville, SC",670
+"Richmond, Ray, MO",888
+"Guanajueto, Mexico",1204
+"Liberty, TX",305
+"Covington, KY",804
+"Sunflower, MS",286
+"Lexington, GA",558
+"Scott, KY",766
+"Decatur, GA",478
+"Mexico City, New Orleans, Mexico, LA",1273
+"St. Charles, New Orleans, LA",3
+"Plaquemines, LA, Mexico",1089
+"Camden, SC",709
+"Charleston, VA",772
+"Memphis, MS",200
+"Ixelles, Unknown",#ERROR!
+"Red River, TX",461
+"Marion, KY",609
+"Camden, NC",1047
+"Unknown, Spain",#ERROR!
+"Bay County, MO",671
+"Henderson, TX",379
+"Philips, AR",381
+"Saline District of the Cherokee Nations, AR",671
+"Ramasy, MN",1222
+"Woodsdale, NC",683
+"Anne Arundel County, MD",1123
+"Charleston, MS",330
+"Cass County, TX",398
+"Fort Adams, MS",138
+"Magnolia, MS",103
+"Saint Mary, LA",#ERROR!
+"Currituck, NC",1061
+"Jackson Hinds, MS",187
+"Mexico City, Mexico",1273
+"Arkadelphia, AR",430
+"Prairie, AR",421
+"Winsborough, SC",702
+"Jose Morehouse, LA",287
+"New Iberia, LA",134
+"Cadiz, Spain",#ERROR!
+"Lewis, MO",773
+"Burke County, GA",638
+"Danville, TX",386
+"Boon, IL",986
+"Handston, MS",200
+"Hampton, VA",1047
+"Pleasant Hill, LA",284
+"Lafayette, MS",353
