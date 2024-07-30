@@ -1,3 +1,4 @@
-This project explores how the slave trade changed in New Orleans as the civil war approached. 
+This project explores how the slave trade changed in New Orleans as the civil war approached. The dataset has 
+records of almost 10,000 slaves sold in New Orleans from 1856 - 1861. The research focuses on the distances buyer's and sellers of slaves traveled in order to do business. It finds that the number of slaves sold in 1861 decreased from the previous year, but the average distance seller's traveled increased. It also shows that, aside from New Orleans, the next common cities of sellers most years was Richmond, Va and Baltimore, Md.  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrea-hayes/Research_Final_Project/HEAD)
